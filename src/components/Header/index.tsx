@@ -1,4 +1,4 @@
-import { HeaderContainer, HeaderContent, NewTransactionButton } from "./styled";
+import { HeaderContainer, HeaderContent, NewTransactionButton } from "./styles";
 
 import logoImg from "../../assets/logo.svg";
 
