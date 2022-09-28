@@ -31,6 +31,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-09-26T23:08:03.982Z"
+    },
+    {
+      "description": "Aluguel de carro",
+      "category": "Viagem",
+      "price": 780,
+      "type": "outcome",
+      "createdAt": "2022-09-28T03:05:42.720Z",
+      "id": 5
+    },
+    {
+      "description": "Hotel em Campos",
+      "category": "Viagem",
+      "price": 800,
+      "type": "outcome",
+      "createdAt": "2022-09-28T03:17:31.625Z",
+      "id": 6
     }
   ]
 }
